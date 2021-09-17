@@ -10984,6 +10984,11 @@ section.resume-section .resume-section-content {
   width: 100%;
 }
 
+div {
+  text-align: justify;
+  text-justify: auto inter-word;
+}
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;
